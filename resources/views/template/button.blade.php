@@ -1,0 +1,1 @@
+<a href="#" data-id="{{ $data->id }}" class="btn btn-pinjam btn-success btn-sm">Pinjam</a>
